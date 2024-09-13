@@ -1,0 +1,6 @@
+id_emp	name_emp	age	Gol_name
+123	Budi B	21	Golongan I
+134	Budi A	24	Golongan III
+144	Intan	20	Golongan I
+155	Budi W	25	Golongan II
+234	Dani	23	Golongan II
